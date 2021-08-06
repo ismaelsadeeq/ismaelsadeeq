@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1k4GH1K_iCKgdeXMiE1VWCXsONnWpX6Jb/view?usp=sharing](https://drive.google.com/file/d/1k4GH1K_iCKgdeXMiE1VWCXsONnWpX6Jb/view?usp=sharing)
 
-- ⚡ Fun fact **I watch series movies and .**
+- ⚡ Fun fact **I watch series movies.**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
