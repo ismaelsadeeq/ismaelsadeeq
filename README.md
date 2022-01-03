@@ -16,7 +16,7 @@
 - 📫 Ask me about anything, I'll be happy to help
 - 👨‍💻 I'm looking to collaborate on Open source projects
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m__Lwe9XCQFSlweGPJ47nFfWob6fEC4q/view?usp=sharing](https://drive.google.com/file/d/1m__Lwe9XCQFSlweGPJ47nFfWob6fEC4q/view?usp=sharing)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1zTWSFSR41uZZAxaR4OdqZGhoxlZuCNXK/view?usp=sharing)
 
 - ⚡ Fun fact **I watch series movies.**
 
