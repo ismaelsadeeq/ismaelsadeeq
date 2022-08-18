@@ -4,7 +4,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue) -->
 <h3 align="center">My primary coding language: Javascript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p>-->
 
 - 🌱 I’m currently learning **Bitcoin Protocol Development from Qala Seminar.**
 
