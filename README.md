@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/sadeeq_ismaela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fuadop" height="30" width="40" /></a>
 <a href="https://twitter.com/sadeeq_ismaela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuadop2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sadiq-ismail-95a525183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuadop" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abubakharismail/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuadop" height="30" width="40" /></a>
 <a href="https://instagram.com/african_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuado_p" height="30" width="40" /></a>
 </p>
 
