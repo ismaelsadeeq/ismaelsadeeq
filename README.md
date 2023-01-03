@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ismaelsadeeq?tab=repositories](https://github.com/ismaelsadeeq?tab=repositories)
 
-- 💬 Ask me about **Nodejs, Reactjs Typescript, etc.**
+- 💬 Ask me about **Nodejs, Reactjs, Typescript, and Flutter etc.**
 
 - 📫 How to reach me **ask4ismailsadiq@gmail.com**
 - 📫 Ask me about anything, I'll be happy to help
