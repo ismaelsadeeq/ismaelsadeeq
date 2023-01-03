@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> -->
 # Hi I'm Abubakar Sadiq Ismail
 <!-- ![](https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue) -->
-<h3 align="center">My primary coding language: Javascript</h3>
+<!-- <h3 align="center">My primary coding language: Javascript</h3> -->
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismaelsadeeq&color=blue&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p>-->
 
