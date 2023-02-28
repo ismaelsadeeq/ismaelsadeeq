@@ -20,7 +20,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://medium.com/@sadeeqcode" target="blank"><img align="center" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" alt="medium" height="30" width="40" /></a>
+<a href="https://medium.com/@sadeeqcode" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoiNi82fUCWkZ3wQu7VUCpITLTDdiODVtyVhFc6pRbvd2zwsLnYysuV_fz3mbX_YcDkA&usqp=CAU" alt="medium" height="30" width="40" /></a>
 <a href="https://twitter.com/sadeeq_ismaela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuadop2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abubakharismail/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abubakar" height="30" width="40" /></a>
 
