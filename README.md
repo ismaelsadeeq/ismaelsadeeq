@@ -1,5 +1,3 @@
-# Hi I'm Abubakar Sadiq Ismail
-
 **Software Engineer** [Python, and C++ ] 
 
 - 🌱 I’m currently learning and building on the **Bitcoin Protocol**
