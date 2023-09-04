@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning and building on the **Bitcoin Protocol**
 - 👨‍💻 All of my projects are available at [https://github.com/ismaelsadeeq?tab=repositories](https://github.com/ismaelsadeeq?tab=repositories)
-- 📫 How to reach me **ask4ismailsadiq@gmail.com**
+- 📫 How to reach me **abubakarsadiqismail@proton.me**
 - 👨‍💻 I'm looking to collaborate on Open source projects
 
 <p align="left">I share my thoughts and knowledge on medium</p> 
